@@ -30,6 +30,11 @@ const Nav = () => {
                 </div>
 
             </div>
+            {/* Buttons */}
+            <div className='flex items-center space-x-4'>
+                {/* login/register button */}
+                <button className='px-8 py-2.5 text-xs sm:text-sm rounded-lg cursor-pointer bg-gray-100 hover:bg-gray-300 transition-all duration-300'>Login / Register</button>
+            </div>
 
         </div>
     </div>
