@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true
+}
